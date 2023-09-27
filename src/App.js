@@ -1,24 +1,19 @@
-import logo from './logo.svg';
+
+import Table from './components/Table';
 import './App.css';
+import { actionToBePerformed, resultWithGamma, resultWithoutGamma, tableHeaderWithGamma, tableHeaderWithoutGamma } from './utility/dataManipulation';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <h3>Question 5(a) Solution:- </h3>
+      <Table tableHeaders = {tableHeaderWithoutGamma} actionToBePerformed = {actionToBePerformed} results = {resultWithoutGamma}/>
+
+      <br/>
+      <h3>Question 5(b) Solution:- </h3>
+      <Table tableHeaders = {tableHeaderWithGamma} actionToBePerformed = {actionToBePerformed} results = {resultWithGamma}/>
+    </>
   );
 }
 
