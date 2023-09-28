@@ -32,10 +32,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### SCREENSHOTS
 
 Screenshot of the table A
-![Screenshot A]([file:///src/Screenshot/a.png](https://github.com/ajkumarpal/mnufact/blob/master/src/Screenshot/a.png))
+![Screenshot A](https://github.com/ajkumarpal/mnufact/blob/master/src/Screenshot/a.png)
 
 Screenshot of the table B
-![Screenshot A](f[ile:///src/Screenshot/b.png](https://github.com/ajkumarpal/mnufact/blob/master/src/Screenshot/b.png))
+![Screenshot A](https://github.com/ajkumarpal/mnufact/blob/master/src/Screenshot/b.png)
 
 ### `yarn eject`
 
