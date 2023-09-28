@@ -29,6 +29,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### SCREENSHOTS
+
+Screenshot of the table A
+![Screenshot A]([file:///src/Screenshot/a.png](https://github.com/ajkumarpal/mnufact/blob/master/src/Screenshot/a.png))
+
+Screenshot of the table B
+![Screenshot A](f[ile:///src/Screenshot/b.png](https://github.com/ajkumarpal/mnufact/blob/master/src/Screenshot/b.png))
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -70,9 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-Screenshot of the table A
-file:///Screenshot/a.png
-
-Screenshot of the table B
-file:///Screenshot/b.png
 
